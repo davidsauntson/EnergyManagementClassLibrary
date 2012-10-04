@@ -1,0 +1,5 @@
+C:\Users\David Sauntson\Documents\Project Codes\emAPI\emAPI_ClassLibrary\emAPI_ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David Sauntson\Documents\Project Codes\emAPI\emAPI_ClassLibrary\emAPI_ClassLibrary\bin\Debug\emAPI_ClassLibrary.dll
+C:\Users\David Sauntson\Documents\Project Codes\emAPI\emAPI_ClassLibrary\emAPI_ClassLibrary\bin\Debug\emAPI_ClassLibrary.pdb
+C:\Users\David Sauntson\Documents\Project Codes\emAPI\emAPI_ClassLibrary\emAPI_ClassLibrary\obj\Debug\emAPI_ClassLibrary.dll
+C:\Users\David Sauntson\Documents\Project Codes\emAPI\emAPI_ClassLibrary\emAPI_ClassLibrary\obj\Debug\emAPI_ClassLibrary.pdb
